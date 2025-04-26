@@ -184,11 +184,3 @@
 
 ---
 
-# ⚡ Note:
-If you want, I can also prepare:
-- **Cheat-sheets for each phase** (Python-specific)
-- **Example issue templates for GitHub Projects**
-- **A public GitHub repo template** you can clone for tracking your weekly projects.
-
----
-  
